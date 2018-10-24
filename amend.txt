@@ -1,0 +1,7 @@
+amend
+
+Commit #2 squash
+
+Commit #3 squash
+
+Commit #4 squash
