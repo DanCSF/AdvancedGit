@@ -1,1 +1,3 @@
 amend
+
+Commit #2 squash
